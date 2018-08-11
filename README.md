@@ -1,2 +1,1 @@
-# helloworld-cpp
-Hello world! - C++
+# Hello world! in C++
